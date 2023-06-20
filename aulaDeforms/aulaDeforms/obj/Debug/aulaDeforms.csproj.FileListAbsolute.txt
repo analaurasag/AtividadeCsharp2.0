@@ -1,0 +1,10 @@
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\bin\Debug\aulaDeforms.exe.config
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\bin\Debug\aulaDeforms.exe
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\bin\Debug\aulaDeforms.pdb
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\obj\Debug\aulaDeforms.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\obj\Debug\aulaDeforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\obj\Debug\aulaDeforms.Properties.Resources.resources
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\obj\Debug\aulaDeforms.csproj.GenerateResource.cache
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\obj\Debug\aulaDeforms.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\obj\Debug\aulaDeforms.exe
+C:\Users\ana.lsaguiar2\source\repos\aulaDeforms\aulaDeforms\obj\Debug\aulaDeforms.pdb

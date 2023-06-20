@@ -1,0 +1,5 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: algoritimosC#, Configuração: Debug Any CPU ------
+1>  algoritimosC# -> C:\Users\ana.lsaguiar2\source\repos\algoritimosC#\algoritimosC#\bin\Debug\algoritimosC#.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 4:43 PM e levou 00,237 segundos ==========

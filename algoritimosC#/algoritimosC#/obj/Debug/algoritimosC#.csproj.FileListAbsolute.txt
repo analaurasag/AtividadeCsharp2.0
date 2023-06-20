@@ -1,0 +1,8 @@
+C:\Users\ana.lsaguiar2\source\repos\algoritimosC#\algoritimosC#\bin\Debug\algoritimosC#.exe.config
+C:\Users\ana.lsaguiar2\source\repos\algoritimosC#\algoritimosC#\bin\Debug\algoritimosC#.exe
+C:\Users\ana.lsaguiar2\source\repos\algoritimosC#\algoritimosC#\bin\Debug\algoritimosC#.pdb
+C:\Users\ana.lsaguiar2\source\repos\algoritimosC#\algoritimosC#\obj\Debug\algoritimosC#.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\algoritimosC#\algoritimosC#\obj\Debug\algoritimosC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\algoritimosC#\algoritimosC#\obj\Debug\algoritimosC#.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\algoritimosC#\algoritimosC#\obj\Debug\algoritimosC#.exe
+C:\Users\ana.lsaguiar2\source\repos\algoritimosC#\algoritimosC#\obj\Debug\algoritimosC#.pdb
