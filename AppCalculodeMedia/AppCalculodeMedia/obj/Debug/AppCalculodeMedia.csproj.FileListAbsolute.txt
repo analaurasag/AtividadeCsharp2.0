@@ -1,0 +1,11 @@
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\bin\Debug\AppCalculodeMedia.exe.config
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\bin\Debug\AppCalculodeMedia.exe
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\bin\Debug\AppCalculodeMedia.pdb
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\obj\Debug\AppCalculodeMedia.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\obj\Debug\AppCalculodeMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\obj\Debug\AppCalculodeMedia.FrmCalculoMedia.resources
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\obj\Debug\AppCalculodeMedia.Properties.Resources.resources
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\obj\Debug\AppCalculodeMedia.csproj.GenerateResource.cache
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\obj\Debug\AppCalculodeMedia.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\obj\Debug\AppCalculodeMedia.exe
+C:\Users\ana.lsaguiar2\source\repos\AppCalculodeMedia\AppCalculodeMedia\obj\Debug\AppCalculodeMedia.pdb

@@ -1,0 +1,3 @@
+C:\Users\ana.lsaguiar2\source\repos\validção cpf]\validção cpf]\obj\Debug\validção cpf].csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\validção cpf]\validção cpf]\obj\Debug\validção cpf].csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\validção cpf]\validção cpf]\obj\Debug\validção cpf].csproj.CoreCompileInputs.cache

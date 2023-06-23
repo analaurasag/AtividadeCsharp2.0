@@ -1,0 +1,15 @@
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\bin\Debug\net6.0\atividade do joao.exe
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\bin\Debug\net6.0\atividade do joao.deps.json
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\bin\Debug\net6.0\atividade do joao.runtimeconfig.json
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\bin\Debug\net6.0\atividade do joao.dll
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\bin\Debug\net6.0\atividade do joao.pdb
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\atividade do joao.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\atividade do joao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\atividade do joao.AssemblyInfoInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\atividade do joao.AssemblyInfo.cs
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\atividade do joao.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\atividade do joao.dll
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\refint\atividade do joao.dll
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\atividade do joao.pdb
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\atividade do joao.genruntimeconfig.cache
+C:\Users\ana.lsaguiar2\source\repos\atividade do joao\atividade do joao\obj\Debug\net6.0\ref\atividade do joao.dll

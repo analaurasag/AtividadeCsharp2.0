@@ -1,0 +1,8 @@
+C:\Users\ana.lsaguiar2\source\repos\ValidaçãoCPF\ValidaçãoCPF\obj\Debug\ValidaçãoCPF.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\ValidaçãoCPF\ValidaçãoCPF\obj\Debug\ValidaçãoCPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\ValidaçãoCPF\ValidaçãoCPF\obj\Debug\ValidaçãoCPF.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\ValidaçãoCPF\ValidaçãoCPF\bin\Debug\ValidaçãoCPF.exe.config
+C:\Users\ana.lsaguiar2\source\repos\ValidaçãoCPF\ValidaçãoCPF\bin\Debug\ValidaçãoCPF.exe
+C:\Users\ana.lsaguiar2\source\repos\ValidaçãoCPF\ValidaçãoCPF\bin\Debug\ValidaçãoCPF.pdb
+C:\Users\ana.lsaguiar2\source\repos\ValidaçãoCPF\ValidaçãoCPF\obj\Debug\ValidaçãoCPF.exe
+C:\Users\ana.lsaguiar2\source\repos\ValidaçãoCPF\ValidaçãoCPF\obj\Debug\ValidaçãoCPF.pdb
