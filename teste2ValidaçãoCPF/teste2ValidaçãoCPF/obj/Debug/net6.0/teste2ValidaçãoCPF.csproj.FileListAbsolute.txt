@@ -1,0 +1,15 @@
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\bin\Debug\net6.0\teste2ValidaçãoCPF.exe
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\bin\Debug\net6.0\teste2ValidaçãoCPF.deps.json
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\bin\Debug\net6.0\teste2ValidaçãoCPF.runtimeconfig.json
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\bin\Debug\net6.0\teste2ValidaçãoCPF.dll
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\bin\Debug\net6.0\teste2ValidaçãoCPF.pdb
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\teste2ValidaçãoCPF.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\teste2ValidaçãoCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\teste2ValidaçãoCPF.AssemblyInfoInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\teste2ValidaçãoCPF.AssemblyInfo.cs
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\teste2ValidaçãoCPF.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\teste2ValidaçãoCPF.dll
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\refint\teste2ValidaçãoCPF.dll
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\teste2ValidaçãoCPF.pdb
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\teste2ValidaçãoCPF.genruntimeconfig.cache
+C:\Users\ana.lsaguiar2\source\repos\teste2ValidaçãoCPF\teste2ValidaçãoCPF\obj\Debug\net6.0\ref\teste2ValidaçãoCPF.dll

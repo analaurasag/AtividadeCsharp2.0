@@ -1,0 +1,11 @@
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\bin\Debug\ValidarCPFeCNPJ.exe.config
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\bin\Debug\ValidarCPFeCNPJ.exe
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\bin\Debug\ValidarCPFeCNPJ.pdb
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\obj\Debug\ValidarCPFeCNPJ.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\obj\Debug\ValidarCPFeCNPJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\obj\Debug\ValidarCPFeCNPJ.Form1.resources
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\obj\Debug\ValidarCPFeCNPJ.Properties.Resources.resources
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\obj\Debug\ValidarCPFeCNPJ.csproj.GenerateResource.cache
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\obj\Debug\ValidarCPFeCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\obj\Debug\ValidarCPFeCNPJ.exe
+C:\Users\ana.lsaguiar2\source\repos\ValidarCPFeCNPJ\ValidarCPFeCNPJ\obj\Debug\ValidarCPFeCNPJ.pdb

@@ -1,0 +1,15 @@
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\novoValidaçãoCPF.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\novoValidaçãoCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\novoValidaçãoCPF.AssemblyInfoInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\novoValidaçãoCPF.AssemblyInfo.cs
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\novoValidaçãoCPF.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\bin\Debug\net6.0\novoValidaçãoCPF.exe
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\bin\Debug\net6.0\novoValidaçãoCPF.deps.json
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\bin\Debug\net6.0\novoValidaçãoCPF.runtimeconfig.json
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\bin\Debug\net6.0\novoValidaçãoCPF.dll
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\bin\Debug\net6.0\novoValidaçãoCPF.pdb
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\novoValidaçãoCPF.dll
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\refint\novoValidaçãoCPF.dll
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\novoValidaçãoCPF.pdb
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\novoValidaçãoCPF.genruntimeconfig.cache
+C:\Users\ana.lsaguiar2\source\repos\novoValidaçãoCPF\novoValidaçãoCPF\obj\Debug\net6.0\ref\novoValidaçãoCPF.dll

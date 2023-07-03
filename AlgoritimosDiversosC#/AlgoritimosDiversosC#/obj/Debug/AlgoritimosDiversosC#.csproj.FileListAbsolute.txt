@@ -1,0 +1,8 @@
+C:\Users\ana.lsaguiar2\source\repos\AlgoritimosDiversosC#\AlgoritimosDiversosC#\obj\Debug\AlgoritimosDiversosC#.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\AlgoritimosDiversosC#\AlgoritimosDiversosC#\obj\Debug\AlgoritimosDiversosC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\AlgoritimosDiversosC#\AlgoritimosDiversosC#\obj\Debug\AlgoritimosDiversosC#.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\AlgoritimosDiversosC#\AlgoritimosDiversosC#\bin\Debug\AlgoritimosDiversosC#.exe.config
+C:\Users\ana.lsaguiar2\source\repos\AlgoritimosDiversosC#\AlgoritimosDiversosC#\bin\Debug\AlgoritimosDiversosC#.exe
+C:\Users\ana.lsaguiar2\source\repos\AlgoritimosDiversosC#\AlgoritimosDiversosC#\bin\Debug\AlgoritimosDiversosC#.pdb
+C:\Users\ana.lsaguiar2\source\repos\AlgoritimosDiversosC#\AlgoritimosDiversosC#\obj\Debug\AlgoritimosDiversosC#.exe
+C:\Users\ana.lsaguiar2\source\repos\AlgoritimosDiversosC#\AlgoritimosDiversosC#\obj\Debug\AlgoritimosDiversosC#.pdb

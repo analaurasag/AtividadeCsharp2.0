@@ -1,86 +1,98 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ValidaçãoCPF
+namespace ValidarCPFandCPNJ
 {
-    internal class Program
+    internal class ValidarCPFandCPNJ
     {
         static void Main(string[] args)
         {
-            string cpf;
-            char[] vetor = new char[11];
+            bool validCpf = false;
 
-            int[] peso1 = { 10, 9, 8, 7, 6, 5, 4, 3, 2 };
-            int[] soma1 = new int[9];
-            int total1 = 0;
-            int resto1 = 0;
-
-            int[] peso2 = { 11, 10, 9, 8, 7, 6, 5, 4, 3, 2 };
-            int[] soma2 = new int[10];
-            int total2 = 0;
-            int resto2 = 0;
-
-            Console.Write("Digite seu CPF: ");
-            cpf = Console.ReadLine();
-
-            for (int contador = 0; contador < 11; contador++)
+            while (!validCpf)
             {
-                vetor[contador] = cpf[contador];
-                cpf = cpf.Remove(contador, 1).Insert(contador, Convert.ToString(vetor[contador]));
 
-            }
-            for (int contador = 0; contador < 9; contador++)
-            {
-                soma1[contador] += Convert.ToInt32(cpf[contador].ToString()) * peso1[contador];
-                total1 += soma1[contador];
-                resto1 = (total1 * 10) % 11;
+                ExibirTexto("Insira Seu CPF: ");
 
-                if (resto1 == 10 || resto1 == 11)
+                string CPF = Console.ReadLine()!;
+
+
+
+                bool isNumeric = CPF.All(char.IsDigit);
+
+
+
+                if (CPF.Length != 11)
                 {
-                    resto1 = 0;
+                    Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+                    Console.WriteLine("Digite um CPF com 11 digitos!!");
+                    Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+                }
+                else if (!isNumeric)
+                {
+                    Console.WriteLine("||||||||||||||||||||||||");
+                    Console.WriteLine("Somente numeros Por Favor");
+                    Console.WriteLine("||||||||||||||||||||||||");
+                    continue;
+                }
+                else
+                {
+                    //Declaração das variáveis.. 
+                    int dig1 = 0;
+                    int dig2 = 0;
+                    int[] v = new int[11];
+                    int soma = 0, soma1 = 0;
+
+
+
+                    //Convertendo texto para inteiro..
+                    for (int i = 0; i < 11; i++)
+                    {
+                        v[i] = int.Parse(CPF[i].ToString());
+                    }
+                    //Calculando o primeiro digito do CPF..
+                    for (int i = 0; i < 9; i++)
+                    {
+                        soma += v[i] * (10 - i);
+                        dig1 = (soma * 10) % 11;
+                    }
+
+                    //Calculando o Segundo digito do CPF..
+                    for (int i = 0; i < 10; i++)
+                    {
+                        soma1 += v[i] * (11 - i);
+                        dig2 = (soma1 * 10) % 11;
+                    }
+
+                    //Verificando se a soma dos digitos estão batendo com as do CPF..
+
+                    string cpfFormatado = $"{CPF.Substring(0, 3)}.{CPF.Substring(3, 3)}.{CPF.Substring(6, 3)}-{CPF.Substring(9, 2)}";
+                    if (dig1 != v[9] || dig2 != v[10])
+                    {
+                        ExibirTexto("--- SEU CPF ESTÁ INVÁLIDO ---");
+                    }
+                    else
+                    {
+                        ExibirTexto("--- SEU CPF ESTÁ Válido ---");
+                        Console.WriteLine($"Seu CPF É: {cpfFormatado}");
+                    }
+
+
+
+                    break;
                 }
             }
-            for (int contador = 0; contador < 10; contador++)
-            {
-                soma2[contador] = Convert.ToInt32(cpf[contador].ToString()) * peso2[contador];
-                total2 += soma2[contador];
-                resto2 = (total2 * 10) % 11;
-
-                if (resto2 == 10 || resto2 == 11)
-                {
-                    resto2 += 0;
-                }
-            }
-            Console.Clear();
-
-            if (resto1 != Convert.ToInt32(cpf[9].ToString()) || resto2 != Convert.ToInt32(cpf[10].ToString()))
-            {
-                string y = string.Join("", cpf);
-                Console.WriteLine("=====================================\n\n");
-                string z = $"{y.Substring(0, 3)}.{y.Substring(3, 3)}.{y.Substring(6, 3)}-{y.Substring(9, 2)}";
-                Console.WriteLine("\n\n------------------------------------\n");
-                Console.WriteLine($"\nO CPF: {z} INVÁLIDO\n");
-                Console.WriteLine("\n=====================================\n");
-            }
-            else
-            {
-                string y = string.Join("", cpf);
-                Console.WriteLine("=====================================\n\n");
-                string z = $"{y.Substring(0, 3)}.{y.Substring(3, 3)}.{y.Substring(6, 3)}-{y.Substring(9, 2)}";
-                Console.WriteLine("\n\n------------------------------------\n");
-                Console.WriteLine("\nCPF VÁLIDO\n");
-                Console.WriteLine("\n=====================================\n");
-            }
-            
         }
+        static void ExibirTexto(string texto)
+        {
+            int quantidadeDeLetras = texto.Length;
+            string barra = string.Empty.PadLeft(quantidadeDeLetras, '|');
+            Console.WriteLine(barra);
+            Console.WriteLine(texto);
+            Console.WriteLine(barra);
+        }
+
+
+
+
+
     }
-
 }
-        
-        
-      
-    
-
