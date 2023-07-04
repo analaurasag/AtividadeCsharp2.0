@@ -34,6 +34,9 @@
             this.txtCPFouCNPJ = new System.Windows.Forms.TextBox();
             this.btnOk = new System.Windows.Forms.Button();
             this.btnCancel = new System.Windows.Forms.Button();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.geradorDeCPFECNPJToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lblCpfouCnpj
@@ -41,11 +44,12 @@
             this.lblCpfouCnpj.AutoSize = true;
             this.lblCpfouCnpj.Font = new System.Drawing.Font("Microsoft YaHei", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCpfouCnpj.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.lblCpfouCnpj.Location = new System.Drawing.Point(119, 9);
+            this.lblCpfouCnpj.Location = new System.Drawing.Point(113, 49);
             this.lblCpfouCnpj.Name = "lblCpfouCnpj";
             this.lblCpfouCnpj.Size = new System.Drawing.Size(410, 42);
             this.lblCpfouCnpj.TabIndex = 0;
             this.lblCpfouCnpj.Text = "Valide seu CPF ou CNPJ:";
+            this.lblCpfouCnpj.Click += new System.EventHandler(this.lblCpfouCnpj_Click);
             // 
             // rdCpf
             // 
@@ -80,6 +84,7 @@
             this.txtCPFouCNPJ.Name = "txtCPFouCNPJ";
             this.txtCPFouCNPJ.Size = new System.Drawing.Size(477, 44);
             this.txtCPFouCNPJ.TabIndex = 3;
+            this.txtCPFouCNPJ.TextChanged += new System.EventHandler(this.txtCPFouCNPJ_TextChanged);
             // 
             // btnOk
             // 
@@ -103,6 +108,23 @@
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.geradorDeCPFECNPJToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(654, 24);
+            this.menuStrip1.TabIndex = 6;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // geradorDeCPFECNPJToolStripMenuItem
+            // 
+            this.geradorDeCPFECNPJToolStripMenuItem.Name = "geradorDeCPFECNPJToolStripMenuItem";
+            this.geradorDeCPFECNPJToolStripMenuItem.Size = new System.Drawing.Size(140, 20);
+            this.geradorDeCPFECNPJToolStripMenuItem.Text = "Gerador de CPF e CNPJ";
+            this.geradorDeCPFECNPJToolStripMenuItem.Click += new System.EventHandler(this.geradorDeCPFECNPJToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -114,9 +136,13 @@
             this.Controls.Add(this.rdCNPJ);
             this.Controls.Add(this.rdCpf);
             this.Controls.Add(this.lblCpfouCnpj);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -130,6 +156,8 @@
         private System.Windows.Forms.TextBox txtCPFouCNPJ;
         private System.Windows.Forms.Button btnOk;
         private System.Windows.Forms.Button btnCancel;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem geradorDeCPFECNPJToolStripMenuItem;
     }
 }
 

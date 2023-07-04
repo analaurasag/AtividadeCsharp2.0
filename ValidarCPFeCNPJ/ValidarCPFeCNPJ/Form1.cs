@@ -117,6 +117,21 @@ namespace ValidarCPFeCNPJ
         {
             this.Close();
         }
+
+        private void lblCpfouCnpj_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void geradorDeCPFECNPJToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtCPFouCNPJ_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
     
