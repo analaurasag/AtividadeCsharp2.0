@@ -39,12 +39,12 @@
             this.geradorDeCPFECNPJToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.lblGeradorCPFeCNPJ = new System.Windows.Forms.Label();
-            this.rdbGeradorCPF = new System.Windows.Forms.RadioButton();
-            this.rdbGeradorCNPJ = new System.Windows.Forms.RadioButton();
-            this.txtGeradorCPFeCNPJ = new System.Windows.Forms.TextBox();
-            this.btnGeradorOK = new System.Windows.Forms.Button();
             this.btnGeradorCancelar = new System.Windows.Forms.Button();
+            this.btnGeradorOK = new System.Windows.Forms.Button();
+            this.txtGeradorCPFeCNPJ = new System.Windows.Forms.TextBox();
+            this.rdbGeradorCNPJ = new System.Windows.Forms.RadioButton();
+            this.rdbGeradorCPF = new System.Windows.Forms.RadioButton();
+            this.lblGeradorCPFeCNPJ = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -169,29 +169,35 @@
             this.panel2.Size = new System.Drawing.Size(510, 380);
             this.panel2.TabIndex = 4;
             // 
-            // lblGeradorCPFeCNPJ
+            // btnGeradorCancelar
             // 
-            this.lblGeradorCPFeCNPJ.AutoSize = true;
-            this.lblGeradorCPFeCNPJ.Font = new System.Drawing.Font("Microsoft YaHei", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblGeradorCPFeCNPJ.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.lblGeradorCPFeCNPJ.Location = new System.Drawing.Point(42, 36);
-            this.lblGeradorCPFeCNPJ.Name = "lblGeradorCPFeCNPJ";
-            this.lblGeradorCPFeCNPJ.Size = new System.Drawing.Size(426, 42);
-            this.lblGeradorCPFeCNPJ.TabIndex = 1;
-            this.lblGeradorCPFeCNPJ.Text = "Gerador de CPF ou CNPJ:";
+            this.btnGeradorCancelar.Font = new System.Drawing.Font("Microsoft YaHei", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGeradorCancelar.Location = new System.Drawing.Point(175, 322);
+            this.btnGeradorCancelar.Name = "btnGeradorCancelar";
+            this.btnGeradorCancelar.Size = new System.Drawing.Size(159, 41);
+            this.btnGeradorCancelar.TabIndex = 11;
+            this.btnGeradorCancelar.Text = "Cancelar";
+            this.btnGeradorCancelar.UseVisualStyleBackColor = true;
+            this.btnGeradorCancelar.Click += new System.EventHandler(this.btnGeradorCancelar_Click);
             // 
-            // rdbGeradorCPF
+            // btnGeradorOK
             // 
-            this.rdbGeradorCPF.AutoSize = true;
-            this.rdbGeradorCPF.Font = new System.Drawing.Font("Microsoft YaHei", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdbGeradorCPF.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.rdbGeradorCPF.Location = new System.Drawing.Point(65, 110);
-            this.rdbGeradorCPF.Name = "rdbGeradorCPF";
-            this.rdbGeradorCPF.Size = new System.Drawing.Size(84, 40);
-            this.rdbGeradorCPF.TabIndex = 7;
-            this.rdbGeradorCPF.TabStop = true;
-            this.rdbGeradorCPF.Text = "CPF";
-            this.rdbGeradorCPF.UseVisualStyleBackColor = true;
+            this.btnGeradorOK.Font = new System.Drawing.Font("Microsoft YaHei", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGeradorOK.Location = new System.Drawing.Point(206, 257);
+            this.btnGeradorOK.Name = "btnGeradorOK";
+            this.btnGeradorOK.Size = new System.Drawing.Size(75, 40);
+            this.btnGeradorOK.TabIndex = 10;
+            this.btnGeradorOK.Text = "OK";
+            this.btnGeradorOK.UseVisualStyleBackColor = true;
+            this.btnGeradorOK.Click += new System.EventHandler(this.btnGeradorOK_Click);
+            // 
+            // txtGeradorCPFeCNPJ
+            // 
+            this.txtGeradorCPFeCNPJ.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtGeradorCPFeCNPJ.Location = new System.Drawing.Point(20, 177);
+            this.txtGeradorCPFeCNPJ.Name = "txtGeradorCPFeCNPJ";
+            this.txtGeradorCPFeCNPJ.Size = new System.Drawing.Size(477, 44);
+            this.txtGeradorCPFeCNPJ.TabIndex = 9;
             // 
             // rdbGeradorCNPJ
             // 
@@ -207,34 +213,29 @@
             this.rdbGeradorCNPJ.Text = "CNPJ";
             this.rdbGeradorCNPJ.UseVisualStyleBackColor = true;
             // 
-            // txtGeradorCPFeCNPJ
+            // rdbGeradorCPF
             // 
-            this.txtGeradorCPFeCNPJ.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGeradorCPFeCNPJ.Location = new System.Drawing.Point(20, 177);
-            this.txtGeradorCPFeCNPJ.Name = "txtGeradorCPFeCNPJ";
-            this.txtGeradorCPFeCNPJ.Size = new System.Drawing.Size(477, 44);
-            this.txtGeradorCPFeCNPJ.TabIndex = 9;
+            this.rdbGeradorCPF.AutoSize = true;
+            this.rdbGeradorCPF.Font = new System.Drawing.Font("Microsoft YaHei", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rdbGeradorCPF.ForeColor = System.Drawing.SystemColors.WindowFrame;
+            this.rdbGeradorCPF.Location = new System.Drawing.Point(65, 110);
+            this.rdbGeradorCPF.Name = "rdbGeradorCPF";
+            this.rdbGeradorCPF.Size = new System.Drawing.Size(84, 40);
+            this.rdbGeradorCPF.TabIndex = 7;
+            this.rdbGeradorCPF.TabStop = true;
+            this.rdbGeradorCPF.Text = "CPF";
+            this.rdbGeradorCPF.UseVisualStyleBackColor = true;
             // 
-            // btnGeradorOK
+            // lblGeradorCPFeCNPJ
             // 
-            this.btnGeradorOK.Font = new System.Drawing.Font("Microsoft YaHei", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGeradorOK.Location = new System.Drawing.Point(206, 257);
-            this.btnGeradorOK.Name = "btnGeradorOK";
-            this.btnGeradorOK.Size = new System.Drawing.Size(75, 40);
-            this.btnGeradorOK.TabIndex = 10;
-            this.btnGeradorOK.Text = "OK";
-            this.btnGeradorOK.UseVisualStyleBackColor = true;
-            // 
-            // btnGeradorCancelar
-            // 
-            this.btnGeradorCancelar.Font = new System.Drawing.Font("Microsoft YaHei", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGeradorCancelar.Location = new System.Drawing.Point(175, 322);
-            this.btnGeradorCancelar.Name = "btnGeradorCancelar";
-            this.btnGeradorCancelar.Size = new System.Drawing.Size(159, 41);
-            this.btnGeradorCancelar.TabIndex = 11;
-            this.btnGeradorCancelar.Text = "Cancelar";
-            this.btnGeradorCancelar.UseVisualStyleBackColor = true;
-            this.btnGeradorCancelar.Click += new System.EventHandler(this.btnGeradorCancelar_Click);
+            this.lblGeradorCPFeCNPJ.AutoSize = true;
+            this.lblGeradorCPFeCNPJ.Font = new System.Drawing.Font("Microsoft YaHei", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGeradorCPFeCNPJ.ForeColor = System.Drawing.SystemColors.WindowFrame;
+            this.lblGeradorCPFeCNPJ.Location = new System.Drawing.Point(42, 36);
+            this.lblGeradorCPFeCNPJ.Name = "lblGeradorCPFeCNPJ";
+            this.lblGeradorCPFeCNPJ.Size = new System.Drawing.Size(426, 42);
+            this.lblGeradorCPFeCNPJ.TabIndex = 1;
+            this.lblGeradorCPFeCNPJ.Text = "Gerador de CPF ou CNPJ:";
             // 
             // Form1
             // 
