@@ -63,6 +63,26 @@ namespace TelaLoginPMT.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1a0c30139e2629666868f6333f206761 {
+            get {
+                object obj = ResourceManager.GetObject("1a0c30139e2629666868f6333f206761", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _75f9cc89138d089aa28d1abc374af311 {
+            get {
+                object obj = ResourceManager.GetObject("75f9cc89138d089aa28d1abc374af311", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Blue_Watercolor_Landscape_Computer_Desktop_Wallpaper_Background__Blue__Watercolor__Landscape_Background_Image_And_Wallpaper_for_Free_Download {
             get {
                 object obj = ResourceManager.GetObject("Blue Watercolor Landscape Computer Desktop Wallpaper Background, Blue, Watercolor" +

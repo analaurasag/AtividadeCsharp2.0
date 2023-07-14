@@ -1,0 +1,11 @@
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\bin\Debug\TelaLoginPMT.exe.config
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\bin\Debug\TelaLoginPMT.exe
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\bin\Debug\TelaLoginPMT.pdb
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\obj\Debug\TelaLoginPMT.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\obj\Debug\TelaLoginPMT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\obj\Debug\TelaLoginPMT.Form1.resources
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\obj\Debug\TelaLoginPMT.Properties.Resources.resources
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\obj\Debug\TelaLoginPMT.csproj.GenerateResource.cache
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\obj\Debug\TelaLoginPMT.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\obj\Debug\TelaLoginPMT.exe
+C:\Users\ana.lsaguiar2\source\repos\TelaLoginPMT\TelaLoginPMT\obj\Debug\TelaLoginPMT.pdb

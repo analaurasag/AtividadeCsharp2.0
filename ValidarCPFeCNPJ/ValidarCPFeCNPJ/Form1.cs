@@ -118,19 +118,21 @@ namespace ValidarCPFeCNPJ
             this.Close();
         }
 
-        private void lblCpfouCnpj_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void geradorDeCPFECNPJToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            panel1.Visible = false;
+            panel2.Visible = true;
         }
 
-        private void txtCPFouCNPJ_TextChanged(object sender, EventArgs e)
+        private void validarCPFECNPJToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            panel1.Visible = true;
+            panel2.Visible = true;
+        }
 
+        private void btnGeradorCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

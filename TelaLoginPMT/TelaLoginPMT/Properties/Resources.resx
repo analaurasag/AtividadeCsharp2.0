@@ -121,13 +121,19 @@
   <data name="Dreamscape" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Dreamscape.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-gmail-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-gmail-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Blue Watercolor Landscape Computer Desktop Wallpaper Background, Blue, Watercolor, Landscape Background Image And Wallpaper for Free Download" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Blue Watercolor Landscape Computer Desktop Wallpaper Background, Blue, Watercolor, Landscape Background Image And Wallpaper for Free Download.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="1a0c30139e2629666868f6333f206761" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1a0c30139e2629666868f6333f206761.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-gmail-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-gmail-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="75f9cc89138d089aa28d1abc374af311" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\75f9cc89138d089aa28d1abc374af311.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

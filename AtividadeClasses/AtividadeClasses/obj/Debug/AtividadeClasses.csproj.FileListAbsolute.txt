@@ -1,0 +1,8 @@
+C:\Users\ana.lsaguiar2\source\repos\AtividadeClasses\AtividadeClasses\bin\Debug\AtividadeClasses.exe.config
+C:\Users\ana.lsaguiar2\source\repos\AtividadeClasses\AtividadeClasses\bin\Debug\AtividadeClasses.exe
+C:\Users\ana.lsaguiar2\source\repos\AtividadeClasses\AtividadeClasses\bin\Debug\AtividadeClasses.pdb
+C:\Users\ana.lsaguiar2\source\repos\AtividadeClasses\AtividadeClasses\obj\Debug\AtividadeClasses.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\AtividadeClasses\AtividadeClasses\obj\Debug\AtividadeClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\AtividadeClasses\AtividadeClasses\obj\Debug\AtividadeClasses.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\AtividadeClasses\AtividadeClasses\obj\Debug\AtividadeClasses.exe
+C:\Users\ana.lsaguiar2\source\repos\AtividadeClasses\AtividadeClasses\obj\Debug\AtividadeClasses.pdb

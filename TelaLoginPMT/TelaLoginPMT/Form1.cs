@@ -16,15 +16,32 @@ namespace TelaLoginPMT
         {
             InitializeComponent();
         }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void btnEntrar_Click(object sender, EventArgs e)
         {
+            string usuario = txtUsuario.Text;
+            string senha = txtSenha.Text;   
 
-        }
+            List<string> Usuario = new List<string>();
 
-        private void lblFacaSeuLogin_Click(object sender, EventArgs e)
-        {
+            Usuario.Add("analaura@gmail.com");
+            Usuario.Add("miguelperez@gmail.com");
+            Usuario.Add("isabelatakeada@gmail.com");
 
+            List<string> Senha = new List<string>();
+
+            Senha.Add("ana");
+            Senha.Add("miguel");
+            Senha.Add("isabela");
+
+
+            if (Usuario.Contains (usuario) && Senha.Contains (senha))
+            {
+                MessageBox.Show("Login efetuado com sucesso!");
+            } else
+            {
+                MessageBox.Show("Usuário ou Senha incorreto.");
+            }         
         }
     }
 }
+                                     

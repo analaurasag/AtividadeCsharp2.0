@@ -1,0 +1,12 @@
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe.config
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.frmCadastroAluno.resources
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.FRMCadastroLivro.resources
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.Properties.Resources.resources
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.cache
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
+C:\Users\ana.lsaguiar2\source\repos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
